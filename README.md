@@ -20,7 +20,7 @@ created by [Titan3301](https://github.com/Titan3301) and [Terminal1337](https://
 ## How to setup/lunch Moon Spammer?
 
 - run setup.bat
-- enter your proxy in proxies.txt
+- enter your proxies in proxies.txt
 - then run moonspammer.py
 - enjoy <3
 
