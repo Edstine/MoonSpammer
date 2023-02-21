@@ -2,6 +2,7 @@
   <br>
   Moon Spammer 🌙
   <br>
+  ---
   <img src="https://cdn.discordapp.com/attachments/1029037062852202638/1077609740298887259/1509905703_99px_ru_animacii_21965_fioletovaja_luna_v_oblachnom_nebe.gif">
 </h1>
 
