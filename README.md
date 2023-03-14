@@ -26,9 +26,10 @@ is a webhook spammer and delete
 ## Need help ?
 join discord -> [dsc.gg/team-camex](https://dsc.gg/team-camex) and DM Edstine#6666
 
-## Credit
-Create by [Titan3301](https://github.com/Titan3301) and [Terminal1337](https://github.com/Terminal1337)
-Edit by [me](https://github.com/Edstine)
+## Image
+<h1 align="center">
+  <img src="https://cdn.discordapp.com/attachments/1029037062852202638/1085312959208759357/moonspammer_Ueq25Rbj5G.png">
+</h1>
 
 ## Disclaimer
 
