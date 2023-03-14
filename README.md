@@ -15,12 +15,11 @@
 ## What is Moon Spammer?
 
 Moon Spammer is a nicer version modified by [me](https://github.com/Edstine) from [this github repo](https://github.com/Terminal1337/discord-webhook-spammer)
-created by [Titan3301](https://github.com/Titan3301) and [Terminal1337](https://github.com/Terminal1337) is a webhook spammer that supports proxies
+is a webhook spammer and delete
 
 ## How to setup/lunch Moon Spammer?
 
 - run setup.bat
-- enter your proxies in proxies.txt
 - then run moonspammer.py
 - enjoy <3
 
