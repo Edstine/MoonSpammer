@@ -24,7 +24,7 @@ is a webhook spammer and delete
 - enjoy <3
 
 ## Need help ?
-join discord -> [dsc.gg/team-camex](https://dsc.gg/team-camex) and DM Edstine#6666
+join discord -> [dsc.gg/team-camex](https://dsc.gg/team-camex) and DM Edstine#9999
 
 ## Image
 <h1 align="center">
