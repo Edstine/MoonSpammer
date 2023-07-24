@@ -22,7 +22,7 @@ print(Colorate.Vertical(Colors.purple_to_blue, """
        ░  ░      ░  ░ ▒ ▒░   ░ ▒ ▒░ ░ ░░   ░ ▒░   ░ ░▒  ░ ░░▒ ░       ▒   ▒▒ ░░  ░      ░░  ░      ░ ░ ░  ░  ░▒ ░ ▒░
        ░      ░   ░ ░ ░ ▒  ░ ░ ░ ▒     ░   ░ ░    ░  ░  ░  ░░         ░   ▒   ░      ░   ░      ░      ░     ░░   ░ 
               ░       ░ ░      ░ ░           ░          ░                 ░  ░       ░          ░      ░  ░   ░     
-                                          By Edstine#9999""", 1))
+                                          By Edstine""", 1))
 
 
 
