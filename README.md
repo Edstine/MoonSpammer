@@ -14,7 +14,7 @@
 
 ## What is Moon Spammer?
 
-Moon Spammer is a nicer version modified by [me](https://github.com/Edstine) from [this github repo](https://github.com/Terminal1337/discord-webhook-spammer)
+Moon Spammer is a nicer tools by [me](https://github.com/Edstine) inspired by [this github repo](https://github.com/Terminal1337/discord-webhook-spammer)
 is a webhook spammer and delete
 
 ## How to setup/lunch Moon Spammer?
