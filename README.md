@@ -21,10 +21,10 @@ is a webhook spammer and delete
 
 - run setup.bat
 - then run moonspammer.py
-- enjoy <3
+- enjoy !
 
 ## Need help ?
-join discord -> [dsc.gg/team-camex](https://dsc.gg/team-camex) and DM Edstine#9999
+join discord -> [dsc.gg/team-camex](https://dsc.gg/team-camex) and DM edstine
 
 ## Image
 <h1 align="center">
