@@ -1,1 +1,1 @@
-pip install -r requirements.txt && cls && echo Installed dependencies successfully! && pause
+python -m pip install -r requirements.txt && cls && echo Installed dependencies successfully! && pause
