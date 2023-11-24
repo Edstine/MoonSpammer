@@ -37,7 +37,7 @@ def spam():
         if req.status_code == 204:
             print(Fore.GREEN+"     [+] Message Sent to the webhook Successfully")
         else:
-            print(Fore.RED+"     [-] Bad proxies or webhook or ratelimited")
+            print(Fore.RED+"     [-] Bad webhook or ratelimited")
             
 
 support = input(Fore.LIGHTYELLOW_EX+"     [?] Do you want to delete the webhook after?(y/n): ")
