@@ -1,6 +1,5 @@
 import os
 import sys
-from random import choice
 import httpx
 from pystyle import *
 from colorama import Fore
