@@ -61,4 +61,4 @@ elif support == "y":
     os.system("start https://teamcamex.fr/discord")
     input()
 else:
-    sys.exit()
+    os.system("exit")
